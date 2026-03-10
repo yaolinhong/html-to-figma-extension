@@ -2,6 +2,19 @@
 
 一键捕获当前页面 HTML，转换为 Figma 可读的设计格式，并自动写入系统剪切板。
 
+## 演示
+
+<table>
+  <tr>
+    <th width="100%">演示视频</th>
+  </tr>
+  <tr>
+    <td>
+      <video src="https://raw.githubusercontent.com/yaolinhong/html-to-figma-extension/refs/heads/main/static/demo-video.mp4" controls width="100%"></video>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## 功能特性

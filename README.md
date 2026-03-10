@@ -10,7 +10,7 @@
   </tr>
   <tr>
     <td>
-      <video src="https://raw.githubusercontent.com/yaolinhong/html-to-figma-extension/refs/heads/main/static/demo-video.mp4" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/1e8e89be-8fcf-4b9b-a1d9-9934564e1f02" controls width="100%"></video>
     </td>
   </tr>
 </table>
